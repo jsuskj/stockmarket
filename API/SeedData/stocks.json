@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "Freezing",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer",
+    "Value": 450
+  },
+  {
+    "Id": 2,
+    "Name": "Bracing",
+    "Description": "Donec pede justo, fringilla vel, aliquet nec",
+    "Value": 500
+  },
+  {
+    "Id": 3,
+    "Name": "Chilly",
+    "Description": "Aenean vulputate eleifend tellus",
+    "Value": 250
+  },
+  {
+    "Id": 4,
+    "Name": "Cool",
+    "Description": "Duis arcu tortor, suscipit eget, imperdiet nec",
+    "Value": 890
+  }
+]
