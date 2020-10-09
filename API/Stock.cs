@@ -2,7 +2,9 @@ namespace API
 {
     public class Stock
     {
-        
+        public Stock()
+        {
+        }
 
         public Stock(int id, string name, string description, decimal value)
         {
